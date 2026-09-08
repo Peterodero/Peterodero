@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Peter Odero
+# Hi, I'm Peter Odero
 
 <div align="center">
   <p>
