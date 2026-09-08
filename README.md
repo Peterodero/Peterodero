@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Peter Odero
+#  Hi, I'm Peter Odero
 
 <div align="center">
   <p>
     <strong>Full-Stack Developer | Machine Learning Enthusiast | UI/UX Designer</strong>
   </p>
   <p>
-    Building AI-driven web applications and innovative software solutions
+    Building AI-driven applications and innovative software solutions
   </p>
 </div>
 
@@ -80,6 +80,6 @@ I'm a passionate software developer with expertise in building scalable web appl
 
 <div align="center">
   <p>
-    <em>Let's build something amazing together! 🌟</em>
+    <em>Let's build something amazing together! </em>
   </p>
 </div>
